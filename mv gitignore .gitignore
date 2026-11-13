@@ -1,6 +1,0 @@
-venv/
-.venv/
-__pycache__/
-.streamlit/secrets.toml
-.env
-.DS_Store
